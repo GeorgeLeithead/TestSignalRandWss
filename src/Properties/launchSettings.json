@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestSignalRandWss": {
+      "commandName": "Project",
+      "commandLineArgs": "wss://stream.binance.com:9443/stream?streams=btcusdt@ticker"
+    }
+  }
+}
